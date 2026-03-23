@@ -8,15 +8,11 @@ I am also actively learning Rust and Python as a part of my Linux experience.
 
 In the future, I want this page to be filled with small projects/scripts that other people will find useful.
 
-___
-
 # Tech
 
 - 🟢 React, TypeScript, Tailwind for Frontend
 - 🟡 Bash, Node.js
 - 🔴 Rust, Python
-
-___
 
 # More About Me
 
